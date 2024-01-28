@@ -4,9 +4,9 @@
 
 - 🔭 At Branchy Solution, I've been developing innovative applications for recruiting agencies, enhancing job search efficiency through advanced resume-job matching algorithms. My work involves extensive use of LLMs, creating serverless computing solutions on AWS, and integrating technologies like Elasticsearch, Kibana, and LangChain.
 
-- 🎓 Academically, I hold a Master of Science degree in Computer Science from York University and a Bachelor of Science in Data Science from the University of Waterloo. My passion for continuous learning has led me to complete various courses in machine learning, deep learning, and NLP, including the Machine Learning Specialization and Neural Networks and Deep Learning course on Coursera.
+- 🎓 Academically, I hold a Master of Science degree in Computer Science from York University and a Bachelor of Science in Data Science from the University of Waterloo. My passion for continuous learning has led me to complete various courses in machine learning, deep learning, and NLP. Also published one paper on WWW 2023.
 
-- 💡 I'm passionate about solving real-world problems and creating innovative solutions using my skills in ML frameworks and cloud technologies, such as PyTorch, TensorFlow, AWS, and Alibaba Cloud. My projects range from enhancing conversational AI in chatbots to optimizing large-scale product databases.
+- 💡 I'm passionate about solving real-world problems and creating innovative solutions using my skills in ML frameworks and cloud technologies, such as PyTorch, TensorFlow, AWS, and Elasticsearch.
 
 - 🌱 I'm currently open to opportunities as a Machine Learning Engineer or Data Scientist in the Toronto area, aiming to leverage my abilities for substantial impacts in this field.
 
