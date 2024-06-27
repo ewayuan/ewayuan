@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👋 I'm Wei Yuan, a Machine Learning Engineer (MLE) currently working with Branchy Solution. My journey in the field of AI and machine learning has taken me through various roles, including a Research Assistant at York University and a Research Developer at Intact. I specialize in Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Data Science, and Deep Learning.
+- 👋 I'm Wei Yuan, a Machine Learning Engineer (MLE) currently working with Brave Career. My journey in the field of AI and machine learning has taken me through various roles, including a Research Assistant at York University and a Research Developer at Intact. I specialize in Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Data Science, and Deep Learning.
 
-- 🔭 At Branchy Solution, I've been developing innovative applications for recruiting agencies, enhancing job search efficiency through advanced resume-job matching algorithms. My work involves extensive use of LLMs, creating serverless computing solutions on AWS, and integrating technologies like Elasticsearch, Kibana, and LangChain.
+- 🔭 At Brave Career, I've been developing innovative applications for recruiting agencies, enhancing job search efficiency through advanced resume-job matching algorithms. My work involves extensive use of LLMs, creating serverless computing solutions on AWS, and integrating technologies like Elasticsearch, Kibana, and LangChain.
 
 - 🎓 Academically, I hold a Master of Science degree in Computer Science from York University and a Bachelor of Science in Data Science from the University of Waterloo. My passion for continuous learning has led me to complete various courses in machine learning, deep learning, and NLP. Also published one paper on WWW 2023.
 
